@@ -6,4 +6,4 @@ This small script using `curl` to send `HTTP POST` with some range of StudentID 
 
 Find who hasn't change the the default password yet......
 
-ZZH@JJUSEC 2020,10,6
+JJUSEC 2020,10,6
